@@ -62,7 +62,13 @@
 >\draw[->] (0,0) -- (0,2)node[left]{t};
 >\draw[->] (0,0) -- (2,0)node[right]{i};
 >\draw[red,thick](0,0) -- (0,1.5) node[right]{0};
->\draw[red,thick] (1,0) -- (1,1.5) node[right]{}
+>\draw[red,thick] (1,0) -- (1,1.5) node[right]{1};
+>\draw[red,dashed] (1,0) -- (1,2);
+>\draw[red,dashed] (0,0) -- (0,2);
 >\end{tikzpicture}
 >\end{document}
 >```
+>
+>Obiettivo, calcolare la [[probabilità]] di un [[evento]]. 
+>
+

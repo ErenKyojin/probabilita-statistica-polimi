@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esperimento aleatorio.md",
+                "file": "evento.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esperimento aleatorio.md",
+                "file": "evento.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "esperimento aleatorio.md",
+                "file": "evento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "esperimento aleatorio.md",
+                "file": "evento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "esperimento aleatorio.md"
+                "file": "evento.md"
               }
             }
           }
@@ -168,9 +168,11 @@
   },
   "active": "d0bb9b758a5fd8b0",
   "lastOpenFiles": [
+    "probabilità.md",
+    "evento.md",
+    "esperimento aleatorio.md",
     "caso elementare.md",
     "spazio campionario.md",
-    "esperimento aleatorio.md",
     "Dati.md",
     "README.md"
   ]
