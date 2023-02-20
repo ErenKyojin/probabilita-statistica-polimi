@@ -37,7 +37,32 @@
 
 >[!esempio] Esempio 3, schedine
 >È casuale il numero di schedine giocate per fare $13$ la prima volta
->$\omega = (V_{1})$
->$\omega = (P_{1},V_{1})$
+>$\omega = (V_{1}) \to 1$ caso in cui vinciamo subito
+>$\omega = (P_{1},V_{1}) \to {2}$ 
 >$\vdots$
->$\omega = ()$
+>$\omega = (P_{1},P_{2},\dots,P_{n-1},V_{n}) \to n$
+>$\vdots$ prosegue all'infinito, potrei non vincere mai
+>
+>$\Omega = (1,2,\dots,N,\dots) = \mathbb{N} \cup \left\{ +\infty \right\}$ Coincide con i numeri naturali e il punto di accumulazione
+
+
+>[!esempio] Esempio 4, tempo di esecuzione di un programma e risultato (successo o fallimento)
+>È un esperimento che è caratterizzato da due variabili, una discreta e una continua.
+> Consideriamo le etichette:
+>  - Successo: 1
+>  - Fallimento: 0
+>
+>$\omega = (i,t), i = 0 \cup 1, t > 0$
+>$\Omega = \left\{ (i,t), i = 0,1; t > 0 \right\}$
+>
+>
+>```tikz
+>\begin{document}
+>\begin{tikzpicture}[scale = 2]
+>\draw[->] (0,0) -- (0,2)node[left]{t};
+>\draw[->] (0,0) -- (2,0)node[right]{i};
+>\draw[red,thick](0,0) -- (0,1.5) node[right]{0};
+>\draw[red,thick] (1,0) -- (1,1.5) node[right]{}
+>\end{tikzpicture}
+>\end{document}
+>```
