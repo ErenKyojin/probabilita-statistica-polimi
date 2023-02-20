@@ -4,5 +4,8 @@
     "lists",
     "test",
     "titles"
-  ]
+  ],
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "cssTheme": ""
 }
