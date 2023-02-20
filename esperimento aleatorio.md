@@ -20,6 +20,24 @@
 >Inoltre tra altre 10 partite in piú se ne possono scegliere 5 
 >
 >$\omega$ ha una struttura ordinata e piú complsessa:
-> $\omega = o_{1},o_{2},\dots,o_{8},e_{1}^j,e_{2}^\mathbf{j},\dots,e_{3}$
+> $\omega = o_{1},o_{2},\dots,o_{8},e_{1}^j,e_{2}^\mathbf{j},\dots,e_{5}^j$
+> Dove $j$ indica il sottoinsieme delle 5 partite scelte rispetto alle 10
+> $O_{i}=1,x,2 = 1 \cdot8$
+> $e_{i}^j=1,x,2=1 \cdot 5$ 
+> Quindi cos'è lo [[spazio campionario]]?
+> 
+>>[!oss]
+>>$|\Omega| =$ finita, per calcolarlo iniziamo prima a farlo con un sottoinsieme $j$ fisso.
+>>abbiamo tre risultati per tredici possibilità, quindi $3^{13}$, aggiungendo la possiblità di scegliere sottoinsieme abbiamo
+>> $$ 3^{13} \begin{pmatrix}
+>>10 \\
+>>5
+>>\end{pmatrix} $$
 
 
+>[!esempio] Esempio 3, schedine
+>È casuale il numero di schedine giocate per fare $13$ la prima volta
+>$\omega = (V_{1})$
+>$\omega = (P_{1},V_{1})$
+>$\vdots$
+>$\omega = ()$
