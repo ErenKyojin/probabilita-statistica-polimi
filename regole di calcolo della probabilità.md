@@ -6,3 +6,22 @@
 &\implies \sum P(\varnothing) = \infty `\unicode{x21af}` \implies P(\Phi) < 0 `\unicode{x21af}`&  \\
 &\implies =0
 \end{align}  $$
+
+2. $P(A \cup B)$
+$$ P(A \cup B \cup \varnothing \cup \varnothing \cup \dots) = P(A) + P(B) + P(\varnothing) + \dots = P(A) + P(B) $$
+
+3. $A \subseteq B$
+   $$\begin{align}
+ &B \setminus A \implies B = A \cup(B \setminus A) \implies P(B) = P(A) + P(B \setminus A) \implies\\
+&P(B \setminus A) = P(B) - P(A)
+\end{align}$$
+
+4. Se $A \subset B$ allora $P(A) \leq P(B)$
+   $$ \begin{align}
+&P(B) - P(A) \text{ è la }p(B \setminus A) \geq 0  \\
+&Se\quad  A_{1} \subset A_{2} \subset \dots \subset A_{n} \subset \dots \implies \\
+&P(A_{1}) \leq P(A_{2}) \leq \dots. \leq P(A_{n}) \leq \dots
+\end{align}$$
+$P$ momnotona crescente
+5.
+6. $\neg B = \Omega \setminus B$ e $\neg B \subseteq$
