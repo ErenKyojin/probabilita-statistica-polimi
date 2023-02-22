@@ -8,3 +8,13 @@
 >
 >2. $\Omega \subseteq \mathbb{R}^n$ è continuo
 >   Non tutti i sottoinsiemi sono eventi, ma sono eventi tutti i sottoinsiemi per cui puoi definire una lunghezza (in $\mathbb{R}^2$ superfice, in $\mathbb{R}^3$ volume). Caso speciale è il singolo elemento che ha lunghezza zero e quindi è un evento.
+>   Non importa se l'intervallo è aperto, chiuso o ne aperto ne chiuso, la topologia non importa per determinare un tipo di evento
+
+
+
+Quindi ottengiamo $E \subseteq \mathbb{R}$   attraverso $\cap, \cup, \neg$ piú numerabili di intervalli.
+
+
+# Eventi speciali
+
+Partiamo dal sottoinsieme che li comprende tutti $\Omega$ (spazio campionario), che è detto **evento certo**, è sempre vero in quanto contiene tutti i possibili risultati, l'opposto è $\varnothing$ che è detto **evento impossibile**, abbiamo poi gli **eventi elementari** $\left\{ w_{i} \right\}$ ossia i singoli eventi (nucleo dello spazio); infine abbiamo l'evento somma $A \cup B$
