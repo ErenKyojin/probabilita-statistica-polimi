@@ -22,3 +22,15 @@ $$ P(A) := \sum_{\left\{ i :w_{i} \in A \right\} } P_{i} $$
 >
 >$\implies P(\left\{ w_{i} \right\}) = P_{i}$
 >$\implies A,B\ t.c.\ |A|=|B|$ posso determinare $P(A), P(B)$? **Non** con questa funzione!
+
+
+# Probabilità condizionata
+$\mathcal{E}$ esperimento = lancio di due dadi distinti, un dado $R$, un dado $B$
+
+$\Omega = \left\{ (b,r) : b,r = 1:6 \right\}$
+$\mathcal{F} = \mathcal{P}(r)$
+$|\Omega| = 6^2 = 36$
+
+Si tratta di uno [[spazio campionario#Spazio campionario equiprobabile o uniforme|spazio equiprobabile]]
+
+$A =$

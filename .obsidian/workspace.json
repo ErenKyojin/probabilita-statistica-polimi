@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spazio campionario.md",
+                "file": "probabilità.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spazio campionario.md",
+                "file": "probabilità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spazio campionario.md",
+                "file": "probabilità.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spazio campionario.md"
+                "file": "probabilità.md"
               }
             }
           }
@@ -181,11 +181,11 @@
   },
   "active": "2db53bcf4634ef3c",
   "lastOpenFiles": [
+    "spazio campionario.md",
     "Spazio di probabilità.md",
     "probabilità.md",
     "Probabilità.md",
     "regole di calcolo della probabilità.md",
-    "spazio campionario.md",
     "Untitled.md",
     "evento.md",
     "esperimento aleatorio.md",
