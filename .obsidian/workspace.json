@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spazio di probabilità.md",
+                "file": "regole di calcolo della probabilità.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spazio di probabilità.md",
+                "file": "regole di calcolo della probabilità.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spazio di probabilità.md",
+                "file": "regole di calcolo della probabilità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spazio di probabilità.md",
+                "file": "regole di calcolo della probabilità.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spazio di probabilità.md"
+                "file": "regole di calcolo della probabilità.md"
               }
             }
           }
@@ -168,6 +168,8 @@
   },
   "active": "68b1deb2c303810d",
   "lastOpenFiles": [
+    "Spazio di probabilità.md",
+    "Untitled.md",
     "evento.md",
     "probabilità.md",
     "esperimento aleatorio.md",
