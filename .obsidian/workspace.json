@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "980997c734d2774d",
+    "type": "split",
+    "children": [
+      {
+        "id": "daa409a8394e2350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68b1deb2c303810d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "regole di calcolo della probabilità.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2db53bcf4634ef3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "probabilità.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "341bbb33de2be9c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0dfc3c99aa37dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26776fb54aed6b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9def3282f2f3d208",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c4080fc0ff05268",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59cd86fa60bfe94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4119816350278a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ec4159f3f48346",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "probabilità.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1aa538fab34715ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "probabilità.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e278c970cdaccb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a07294e3ea459480",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "probabilità.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2db53bcf4634ef3c",
+  "lastOpenFiles": [
+    "spazio campionario.md",
+    "Spazio di probabilità.md",
+    "probabilità.md",
+    "Probabilità.md",
+    "regole di calcolo della probabilità.md",
+    "Untitled.md",
+    "evento.md",
+    "esperimento aleatorio.md",
+    "caso elementare.md",
+    "Dati.md"
+  ]
+}
